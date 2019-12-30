@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Xwpd\ThinkTesting\Tests;
+namespace Xwpd\ThinkFacade\Tests;
 
 
 class MyService
