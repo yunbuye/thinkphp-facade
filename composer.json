@@ -26,14 +26,11 @@
     "autoload": {
         "psr-4": {
             "Xwpd\\ThinkFacade\\": "src/"
-        },
-        "files":[
-            "src/helpers.php"
-        ]
+        }
     },
     "autoload-dev": {
         "psr-4": {
-            "Xwpd\\ThinkTesting\\Tests\\": "tests/",
+            "Xwpd\\ThinkFacade\\Tests\\": "tests/",
             "think\\":"vendor/topthink/framework/library/think/"
         }
     },
