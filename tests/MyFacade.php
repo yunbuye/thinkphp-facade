@@ -9,7 +9,7 @@ use Yunbuye\ThinkFacade\Facade;
 /**
  * Class MyFacade
  * @method mixed get($key)
- * @package Xwpd\ThinkTesting\Tests
+ * @package Yunbuye\ThinkTesting\Tests
  */
 class MyFacade extends Facade
 {
