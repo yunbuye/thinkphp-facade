@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Xwpd\ThinkFacade;
+namespace Yunbuye\ThinkFacade;
 
 
 use Mockery\MockInterface;
@@ -14,7 +14,7 @@ class Facade extends \think\Facade
     /**
      * Convert the facade into a Mockery spy.
      *
-     * @return \Mockery\MockInterface
+     * @return MockInterface
      */
     public static function spy()
     {

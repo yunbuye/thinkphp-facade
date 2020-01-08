@@ -1,7 +1,7 @@
 <?php
 
 
-namespace Xwpd\ThinkFacade\Tests;
+namespace Yunbuye\ThinkFacade\Tests;
 
 
 use PHPUnit\Framework\TestCase;
