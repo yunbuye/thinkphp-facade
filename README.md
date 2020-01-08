@@ -3,9 +3,9 @@
 ## 安装
 非开发依赖，不要加--dev   
 ```bash
-composer require xwpd/thinkphp-facade 
+composer require yubuye/thinkphp-facade 
 ```
-自定义的所有Facade必须继承 Xwpd\ThinkFacade\Facade。
+自定义的所有Facade必须继承 Yunbuye\ThinkFacade\Facade。
 
 ## 使用
 1. 安装开发依赖
@@ -23,7 +23,7 @@ MyFacade::shouldReceive('get')
 MyFacade::get('key')=='value'//true
 ```
 
-1. 框架自带 Facade 及 其他没有继承  Xwpd\ThinkFacade\Facade 的 Facade 的 mock 方式   
+1. 框架自带 Facade 及 其他没有继承  Yunbuye\ThinkFacade\Facade 的 Facade 的 mock 方式   
 例： 缓存Cache的模拟
 ```php
 
