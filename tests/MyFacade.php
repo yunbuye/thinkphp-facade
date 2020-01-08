@@ -1,10 +1,10 @@
 <?php
 
 
-namespace Xwpd\ThinkFacade\Tests;
+namespace Yunbuye\ThinkFacade\Tests;
 
 
-use Xwpd\ThinkFacade\Facade;
+use Yunbuye\ThinkFacade\Facade;
 
 /**
  * Class MyFacade

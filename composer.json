@@ -1,5 +1,5 @@
 {
-    "name": "xwpd/thinkphp-facade",
+    "name": "yunbuye/thinkphp-facade",
     "license": "MIT",
     "description": "ThinkPHP 方便被 mock 的 facade",
     "keywords": [
@@ -8,7 +8,7 @@
         "mockery",
         "mock"
     ],
-    "homepage": "http://github.com/xwpd/thinkphp-facade",
+    "homepage": "http://github.com/yunbuye/thinkphp-facade",
     "authors": [
         {
             "name": "xwpd",
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "Xwpd\\ThinkFacade\\": "src/"
+            "Yunbuye\\ThinkFacade\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "Xwpd\\ThinkFacade\\Tests\\": "tests/",
+            "Yunbuye\\ThinkFacade\\Tests\\": "tests/",
             "think\\":"vendor/topthink/framework/library/think/"
         }
     },
